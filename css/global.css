@@ -1,4 +1,7 @@
 @import url(header.css);
+@import url(main.css);
+@import url(buttons.css);
+@import url(normalize.css);
 
 .container {
     margin: 0 auto;
@@ -7,14 +10,14 @@
 
 .wrapper {
     margin: 0 auto;
-    max-width: 1400px;
 }
 
 * {
     box-sizing: border-box;
 }
 
-/*::before,
+*::before,
 *::after {
     box-sizing: border-box;
 }
+

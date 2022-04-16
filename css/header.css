@@ -1,4 +1,4 @@
-.header-header {
+.header-panel {
     display: flex;
     justify-content: space-between;
 }
@@ -17,9 +17,7 @@ header {
     padding-top: 45px;
 }
 
-.product,
-.services,
-.about,
+.header-btn,
 .login {
     color: aliceblue;
     text-decoration: none;
@@ -38,7 +36,7 @@ header {
     border: 2px solid #FFFFFF;
     border-radius: 24px;
     padding: 8px 40px;
-    
+    text-decoration: none;
 }
 
 .header-main {
@@ -47,11 +45,11 @@ header {
     
 }
 
-.Template {
+.template {
     margin-top: 84px;
 }
 
-.Template-title {
+.template-title {
     font-family: 'Manrope', sans-serif;
     font-weight: 400;
     font-size: 48px;
@@ -60,7 +58,7 @@ header {
     margin-bottom: 20px;
 }
 
-.Template-text {
+.template-text {
     font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -69,7 +67,7 @@ header {
     color: #F1F1F1;
 }
 
-.Template-btn {
+.template-btn {
     font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -84,13 +82,13 @@ header {
     margin: 8px;
 }
 
-.Template-btn:hover {
+.template-btn:hover {
     border: 2px solid #69E6A6;
     background: #69E6A6;
     color: #0A2640;
 }
 
-.Template-buttons {
+.template-buttons {
     margin-top: 40px;
     margin-bottom: 140px;
 }
@@ -106,3 +104,14 @@ header {
 .statistic-photo_2 {
     padding: 0 33px;
 }
+
+.carousel-logo {
+    padding: 0 25px;
+    box-shadow: inset 10px 0 10px;
+}
+
+.header-footer {
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
