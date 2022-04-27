@@ -1,0 +1,41 @@
+@import url(global.css);
+@import url(normalize.css);
+@import url(fonts.css);
+@import url(buttons.css);
+
+footer {
+    background-image: url(/img/footer-backgrpund.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.footer-title {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.footer-form-input {
+    padding: 12px 128px 12px 32px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: black;
+    border-radius: 41px;
+    border: 2px solid #FFFFFF;
+    margin-right: 20px;
+}
+
+.footer-form {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 80px;
+}
