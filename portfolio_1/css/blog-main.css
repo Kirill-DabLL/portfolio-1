@@ -1,0 +1,108 @@
+.thoughts-preface {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #0A2640;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.thoughts-title {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 10px;
+    color: #0A2640;
+    align-items: center;
+    text-align: center;
+}
+
+.thoughts-category {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    color: #0A2640;
+}
+
+.thoughts-data {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #777777;
+}
+
+.thourhgts-text {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    color: black;
+    margin: 0;
+}
+
+.thourhgts-author {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.thoughts-main {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 60px;
+}
+
+.thourghts-main-preface {
+    display: flex;
+    margin-top: 40px;
+}
+
+.thoughts-data {
+    margin-left: 15px;
+}
+
+.thourhgts-author-profile {
+    display: flex;
+}
+
+.thourhgts-author-img {
+    object-fit: cover;
+    width: 30px;
+    height: 30px;
+    margin-top: 14px;
+    margin-right: 14px;
+}
+
+.thoughts {
+    margin-bottom: 100px;
+}
+
+.news-title {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    color: #000000;
+    align-items: center;
+    text-align: center;
+    margin-right: 750px;
+}
+
+.blog-btn-2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}

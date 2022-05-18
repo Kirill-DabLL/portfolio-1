@@ -3,6 +3,11 @@
 @import url(footer.css);
 @import url(buttons.css);
 @import url(normalize.css);
+@import url(blog-header.css);
+@import url(blog-footer.css);
+@import url(blog-main.css);
+@import url(about-header.css);
+@import url(about-main.css);
 
 .container {
     margin: 0 auto;

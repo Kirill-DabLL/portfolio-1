@@ -1,0 +1,43 @@
+.header-wrapper-about {
+    background-image: url(/img/about-header-background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 610px;
+    z-index: auto;
+}
+
+.introduction-preface {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #F1F1F1;
+    margin-top: 80px;
+    align-items: center;
+    text-align: center;
+}
+
+.introduction-title {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 84px;
+    color: #FFFFFF;
+    margin: 0;
+    align-items: center;
+    text-align: center;
+}
+
+.introduction-text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #F1F1F1;
+    padding-top: 10px;
+    align-items: center;
+    text-align: center;
+}

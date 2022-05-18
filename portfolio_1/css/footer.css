@@ -3,14 +3,14 @@
 @import url(fonts.css);
 @import url(buttons.css);
 
-footer {
+.footer-card {
     background-image: url(/img/footer-backgrpund.png);
     background-size: cover;
     background-repeat: no-repeat;
     
 }
 
-.footer-title {
+.footer-card-title {
     font-family: 'Manrope';
     font-style: normal;
     font-weight: 400;
@@ -21,7 +21,7 @@ footer {
     padding-top: 50px;
 }
 
-.footer-form-input {
+.footer-card-form-input {
     padding: 12px 128px 12px 32px;
     font-family: 'Open Sans';
     font-style: normal;
@@ -34,7 +34,7 @@ footer {
     margin-right: 20px;
 }
 
-.footer-form {
+.footer-card-form {
     display: flex;
     justify-content: center;
     padding-bottom: 80px;

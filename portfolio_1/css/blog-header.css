@@ -1,0 +1,20 @@
+.blog-header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.blog-header-btn {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    color: #0A2640;
+    text-decoration: none;
+    margin: 0 20px 0 20px;
+}
+
+.blog-login {
+    margin-left: 15px;
+}

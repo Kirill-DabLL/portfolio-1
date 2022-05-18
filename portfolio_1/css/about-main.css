@@ -1,0 +1,261 @@
+.gallery-section {
+    display: grid;
+}
+
+.gallery-section-photo-1 {
+    margin: 0 0 40px 0;
+}
+
+.gallery-section-photo-big {
+    margin: 0 40px;
+}
+
+.about-gallery {
+    display: flex;
+    justify-content: center;
+}
+
+.story-preface {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #777777;
+}
+
+.story-title {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    color: black;
+    margin: 0;
+}
+
+.story-text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #777777;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.story {
+   margin-left: 550px;
+}
+
+
+
+
+.numbers {
+    background-image: url(/img/numbers-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    text-align: center;
+}
+
+.numbers-preface {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #F1F1F1;
+    padding-top: 100px;
+}
+
+.numbers-title {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.numbers-section-title {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 56px;
+    color: #4FE9A4;
+    margin: 90px 0 40px;
+}
+
+.numbers-section-text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: #F1F1F1;
+    margin: 0 0 80px 0;
+}
+
+.numbers-main {
+    display: flex;
+    justify-content: center;
+}
+
+.numbers-section-2 {
+    margin: 0 200px;
+}
+
+
+
+
+.team-preface {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #777777;
+    margin: 100px 0 30px 0;
+}
+
+.team-title {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    color: #000000;
+    margin: 0 0 40px 0;
+}
+
+.team-text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #777777;
+    margin-bottom: 70px;
+}
+
+.team-main {
+    margin-left: 500px;
+}
+
+.team-card-title {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 48px;
+    color: #000000;
+    margin-bottom: 0;
+}
+
+.team-card-text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #777777;
+}
+
+.team-cards {
+    display: flex;
+    justify-content: center;
+}
+
+.team-card-2 {
+    margin: 0 50px 150px 50px;
+}
+
+
+
+
+.values {
+    background-image: url(/img/numbers-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.values-preface {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #FFFFFF;
+    padding: 100px 0 15px 0;
+    margin: 0;
+}
+
+.values-title {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.values-text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #F1F1F1;
+}
+
+.values-main {
+    margin-left: 160px;
+}
+
+.values-articles {
+   margin-left: 150px;
+}
+
+.values-article-1 {
+    display: flex;
+    margin-top: 90px;
+}
+
+.values-article-2 {
+    display: flex;
+    margin-top: 50px;
+}
+
+.values-article-3 {
+    display: flex;
+    margin-top: 50px;
+    padding-bottom: 100px;
+}
+
+.values-article-title {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 48px;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.varius-article-text {
+    padding-left: 50px;
+}
+
+.values-article-description {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
